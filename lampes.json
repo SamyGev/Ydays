@@ -1,0 +1,20 @@
+[
+    {
+        "id":0,
+        "lampe":"ma super lampe",
+        "prix":30.4,
+        "texte":""
+    },
+    {
+        "id":1,
+        "lampe":"mon autre lampe",
+        "prix":50,
+        "texte":""
+    },
+    {
+        "id":3,
+        "lampe":"mon autre lampe",
+        "prix":51,
+        "texte":""
+    }
+]
